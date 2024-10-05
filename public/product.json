@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 150,
+      "image": "https://i.ibb.co.com/vq7V02k/wireless-head-phone.jpg",
+      "description": "High-quality wireless headphones with noise cancellation."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 699,
+      "image": "https://i.ibb.co.com/Z6Lsxsj/smartphone.jpg",
+      "description": "Latest model smartphone with a high-resolution display and fast performance."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Sports",
+      "price": 120,
+      "image": "https://i.ibb.co.com/GQJr25j/running-shoes.jpg",
+      "description": "Lightweight running shoes designed for comfort and performance."
+    },
+    {
+      "id": 4,
+      "name": "Gaming Laptop",
+      "category": "Computers",
+      "price": 1500,
+      "image": "https://i.ibb.co.com/BjW1VRv/laptop.jpg",
+      "description": "Powerful gaming laptop with a high-end graphics card and fast processor."
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 50,
+      "image": "https://i.ibb.co.com/gJNhsKv/backpack.jpg",
+      "description": "Durable backpack with multiple compartments for organization."
+    },
+    {
+      "id": 6,
+      "name": "Mountain Bike",
+      "category": "Sports",
+      "price": 850,
+      "image": "https://ibb.co.com/vLFMW5K",
+      "description": "Sturdy mountain bike with excellent suspension for off-road trails."
+    },
+    {
+      "id": 7,
+      "name": "Smartwatch",
+      "category": "Electronics",
+      "price": 199,
+      "image": "https://i.ibb.co.com/K5R89t7/smart-watch.png",
+      "description": "Stylish smartwatch with health monitoring features and notifications."
+    },
+    {
+      "id": 8,
+      "name": "Office Chair",
+      "category": "Furniture",
+      "price": 250,
+      "image": "https://i.ibb.co.com/YBSBr1J/office-chair.png",
+      "description": "Ergonomic office chair with lumbar support and adjustable height."
+    },
+    {
+      "id": 9,
+      "name": "Electric Guitar",
+      "category": "Music",
+      "price": 500,
+      "image": "https://i.ibb.co.com/CJbQmTj/electrical-guitar.png",
+      "description": "High-quality electric guitar with a sleek design and crisp sound."
+    },
+    {
+      "id": 10,
+      "name": "Blender",
+      "category": "Home Appliances",
+      "price": 80,
+      "image": "https://i.ibb.co.com/tYTnxWh/blendar.jpg",
+      "description": "High-speed blender perfect for smoothies and sauces."
+    }
+  ]
+  
