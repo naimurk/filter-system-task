@@ -6,6 +6,10 @@ This project is a simple product filtering system that allows users to filter pr
 
 The purpose of this project is to create a user-friendly product filtering system where users can easily browse through products by applying filters for price range and categories. The system dynamically updates the product display based on the selected filters, providing a smooth and responsive user experience.
 
+
+Check out the live version of the project at: [Live Demo](https://fluffy-donut-0be09b.netlify.app/)
+
+
 ## Project Setup
 
 To get started with the project, follow these steps:
@@ -32,3 +36,5 @@ cd perf-filter-system
 
 npm run dev
 ```
+
+
