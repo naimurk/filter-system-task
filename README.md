@@ -28,7 +28,7 @@ First, clone the repository to your local machine using the following command:
 git clone https://github.com/naimurk/filter-system-task.git
 
 
-cd perf-filter-system
+cd product-filter-system
 
 
  npm install
