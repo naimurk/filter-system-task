@@ -5,16 +5,16 @@ const CheckboxFilter = ({ options, selectedOptions, handleCheckboxChange }) => {
     <div className="mt-6">
       <h2 className="text-xl font-semibold mb-4">Filter by Category</h2>
       {options.map((option) => (
-        <div key={option} className="flex items-center mb-2">
+        <div  key={option} className="flex items-center mb-2 ">
           <input
             type="checkbox"
             id={option}
             value={option}
             checked={selectedOptions.includes(option)}
             onChange={() => handleCheckboxChange(option)}
-            className="mr-2 w-4 h-4"
+            className="mr-2 w-4 h-4 cursor-pointer"
           />
-          <label htmlFor={option} className="text-gray-700">
+          <label htmlFor={option} className="text-gray-700 cursor-pointer">
             {option}
           </label>
         </div>
