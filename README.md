@@ -14,20 +14,21 @@ To get started with the project, follow these steps:
 
 First, clone the repository to your local machine using the following command:
 
-### 2. Navigate to the Project Directory 
+### 2. Navigate to the Project Directory
 
-### 3.  Install Dependencies
+### 3. Install Dependencies
 
 ### 4. Run the Application
 
 ```bash
 git clone https://github.com/your-username/product-filter-system.git
 
-```bash
+
 cd perf-filter-system
 
-```bash
-cd npm install 
 
-```bash
-cd npm run dev 
+ npm install
+
+
+npm run dev
+```
