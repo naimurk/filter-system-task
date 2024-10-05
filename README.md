@@ -25,7 +25,7 @@ First, clone the repository to your local machine using the following command:
 ### 4. Run the Application
 
 ```bash
-git clone https://github.com/your-username/product-filter-system.git
+git clone https://github.com/naimurk/filter-system-task.git
 
 
 cd perf-filter-system
