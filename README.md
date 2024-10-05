@@ -17,11 +17,15 @@ First, clone the repository to your local machine using the following command:
 
 ### 2. Navigate to the Project Directory 
 
+
 cd product-filter-system
 
 ### 3.  Install Dependencies
+```bash
+npm install 
 
-### 2. Run the Application
+### 4. Run the Application
+```bash
 npm run dev
 ```bash
 git clone https://github.com/your-username/product-filter-system.git
